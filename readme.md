@@ -23,4 +23,4 @@ console.log(isWebpackDevServer);
 
 ## License
 
-MIT © [ragingwind](http://ragingwind.me)
+MIT © [Jimmy Moon](http://ragingwind.me)
