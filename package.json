@@ -19,7 +19,10 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "weppack",
+    "weppack-dev-server",
+    "is-webpack",
+    "is-webpack-dev-server"
   ],
   "dependencies": {},
   "devDependencies": {
