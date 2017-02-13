@@ -1,5 +1,3 @@
-/* eslint no-unused-vars: ["error", {"vars": "local"}] */
-
 import test from 'ava';
 import isWebpackDevServer from '.';
 
